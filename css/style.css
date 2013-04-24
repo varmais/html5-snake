@@ -1,0 +1,43 @@
+body {
+	background: url('../img/textured_paper.png');
+	min-height: 750px;
+	overflow-y: hidden;
+	padding-top: 50px;
+}
+
+#snake-canvas {
+	width: 300px;
+	height: 150px;
+	border: 2px solid gray;
+	background: white;
+}
+
+#wrapper {
+	margin: 0 auto;
+	text-align: center;
+	min-width: 750px;
+}
+
+#level h2 {
+	margin-bottom: 65px;
+}
+
+.level {
+	border: 1px solid black;
+	width: 10px;
+	padding: 5px;
+	margin: 5px;
+	display: inline;
+}
+
+.infosettings {
+	text-align: center;
+	margin-bottom: 50px;
+	width: 45%;
+	float: left;
+	height: 150px;
+}
+
+#top5 {
+	text-align: left;
+}
